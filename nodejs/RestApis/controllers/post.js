@@ -16,7 +16,7 @@ module.exports.CreateOneToMany = async (req, res, model) => {
             message: error.message
         });
     }
-};
+}
 
 
 
